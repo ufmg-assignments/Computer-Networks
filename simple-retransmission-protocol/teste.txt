@@ -1,0 +1,12 @@
+Contextualização
+
+O Linux é uma variação do sistema UNIX que comeuçou a ser desenvolvida por Linus Torvalds em 1991. Um marco importante na história dos sistemas operacionais, o sistema Linux é caracterizado pelo modelo de desenvolvimento Bazar, contando c~om a colaboração de diversos desenvolvedores ao redor de todo o mundo. 
+Dessa forma, o Linux é um sistema operacinal livre e mo}derno, em que distribuições recentes incluem ferramentas para o gerenciamento de arquivos, administração de redes e comunicação entre processos, tópicos esses que serão frequentemente abordados nesse trabalho. Destaca-se também que foi projetado para execução confiável e eficiente em hardware de computadores pessoais.
+
+
+Introdução
+
+A World Wide Web é o sistema distribuído mais predominante atualmente. É por meio dela que usuários do mundo inteiro compartilham arquivos, acessam séries e filmes, interagem por jogos onlines, etc. 
+Um pouco semelhante a isso é o sistema de arquivos distribuídos, é composto essencialmente por clientes, serviçoes e servidores (desenvolver mais). 
+Um detalhe adicional a isso é a ideia de que esses arquivos são distribuídos localmente, ou seja, a solicitação e envio de arquivos são feitos por uma rede local compartilhada tanto pelo servidor como pelos clientes. Esse será o foco do presente trabalho.
+Portanto, o principal objetivo desse trabalho é estudar o funcionamento do sistema de arquivos distribuídos do sistema Linux, e, após o entendimento adequado de suas propriedades e particularidades, realizar alterações no kernel com intuito de otimizar sua implementação ou adaptar para um caso de uso específico. Para isso, inicialmente deve-se tomar uma série de decisões, que poderão potencialmente ser adaptadas ao longo do andamento do projeto. Além desse objetivo principal, outra meta a ser alcançada é a expansão e fixação dos conceitos aprendidos na disciplina de Sistemas Operacionais por meio de uma abordagem mais prática.
